@@ -1,0 +1,8 @@
+ndims = 3
+neig = 3
+masses = 1 1 1
+grid_sizes = 31 31 31
+min_grid_vals = -5 -5 -5
+max_grid_vals = 5 5 5
+potential_type = 0
+algorithm = 0
